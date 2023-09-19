@@ -1,11 +1,12 @@
 {
+  "type": "module",
   "name": "generator-reactpack",
   "version": "0.0.0",
   "scripts": {
     "prepare": "husky install",
     "commit": "cz",
     "pre-release": "node ./release/release.js",
-    "release": "git commit --allow-empty  -m \"chore: release 0.0.0\" && git push --follow-tags origin main",
+    "release": "git commit --allow-empty  -m \"chore: release 0.0.1\" && git push --follow-tags origin main",
     "update": "git pull && node release.js"
   },
   "config": {
