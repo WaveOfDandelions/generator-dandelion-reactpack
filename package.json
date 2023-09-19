@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "generator-reactpack",
+  "version": "0.0.0",
+  "scripts": {
+    "prepare": "husky install",
+    "commit": "cz",
+    "pre-release": "node ./release/release.js",
+    "release": "git commit --allow-empty  -m \"chore: release 0.0.1\" && git push --follow-tags origin main",
+    "update": "git pull && node release.js"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "@npmcli/package-json": "^5.0.0",
+    "commitizen": "^4.3.0",
+    "eslint": "^8.45.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1",
+    "prettier": "^3.0.3"
+  }
+}
