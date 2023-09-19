@@ -1,1 +1,1 @@
-Yo Generator
+Yo Generator is ready
