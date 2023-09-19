@@ -7,7 +7,7 @@
     "commit": "cz",
     "pre-release": "node ./release/release.js",
     "release": "git commit --allow-empty -m \"chore: release 0.0.3\" -m \"Release-As: 0.0.3\" && npm run deploy-release",
-    "deploy-release": "git push --follow-tags origin main",
+    "deploy-release": "git push origin main",
     "update": "git pull && node release.js"
   },
   "config": {
