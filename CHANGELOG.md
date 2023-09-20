@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.4](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.3...v0.0.4) (2023-09-20)
+
+
+### Bug Fixes
+
+* fix deploy release script ([f475878](https://github.com/WaveOfDandelions/generator-reactpack/commit/f475878aa5bf7efdf8bf8007c81f1cf4c40d3186))
+* fix deploy release script ([9380e63](https://github.com/WaveOfDandelions/generator-reactpack/commit/9380e634a024d5a0b4342a7ff9408089bc82414c))
+
+
+### Miscellaneous
+
+* release 0.0.4 ([9df75d3](https://github.com/WaveOfDandelions/generator-reactpack/commit/9df75d33d2b7cedcd78611dfc4861e9e5ead3902))
+
 ## [0.0.3](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.2...v0.0.3) (2023-09-19)
 
 
