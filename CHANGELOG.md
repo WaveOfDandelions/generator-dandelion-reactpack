@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.5](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.4...v0.0.5) (2023-09-20)
+
+
+### Features
+
+* **yo:** add support for npm, pnpm and yarn package managers ([fc3f3d8](https://github.com/WaveOfDandelions/generator-reactpack/commit/fc3f3d86333372724618dc398b0f39052629a93b))
+
+
+### Miscellaneous
+
+* release 0.0.5 ([ddb0523](https://github.com/WaveOfDandelions/generator-reactpack/commit/ddb052324e3eb01f24f3f78f2aa67dd8f79b197f))
+* **release:** add release v0.0.5 ([208f23a](https://github.com/WaveOfDandelions/generator-reactpack/commit/208f23a706275a40ed9492171d86b5f917d40d29))
+
 ## [0.0.4](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.3...v0.0.4) (2023-09-20)
 
 
