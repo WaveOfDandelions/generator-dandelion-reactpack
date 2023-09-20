@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.6](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.5...v0.0.6) (2023-09-20)
+
+
+### Miscellaneous
+
+* release 0.0.6 ([4b5e215](https://github.com/WaveOfDandelions/generator-reactpack/commit/4b5e2151afbd8874c3ce6d068d07494c339963a2))
+
+
+### Build Systems
+
+* **npm:** change private value ([386c287](https://github.com/WaveOfDandelions/generator-reactpack/commit/386c287fa543d06918ab0a239d70de70cb053cb5))
+
 ## [0.0.5](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.4...v0.0.5) (2023-09-20)
 
 
