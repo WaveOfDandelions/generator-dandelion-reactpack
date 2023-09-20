@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.0.3](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.2...v0.0.3) (2023-09-19)
+
+
+### Features
+
+* **yo:** add first dummy generator ([3a966ea](https://github.com/WaveOfDandelions/generator-reactpack/commit/3a966ea691e2c4af1abbf59b46ec5e86b87f3739))
+
+
+### Bug Fixes
+
+* fix generator ([9e84416](https://github.com/WaveOfDandelions/generator-reactpack/commit/9e844161b1c3e4bbcc2c063bee3e4758d2b4902f))
+
+
+### Miscellaneous
+
+* release 0.0.2 ([a6e54f7](https://github.com/WaveOfDandelions/generator-reactpack/commit/a6e54f7f1aa42da33d7d8097f46388e337141b88))
+* release 0.0.2 ([6ea3f45](https://github.com/WaveOfDandelions/generator-reactpack/commit/6ea3f4576024a66517d5933a58c109980a3a859d))
+* release 0.0.3 ([6b36f01](https://github.com/WaveOfDandelions/generator-reactpack/commit/6b36f010404f56681de7507b80212fc5303f4f65))
+
+
+### Build Systems
+
+* fix release version ([e6fa03e](https://github.com/WaveOfDandelions/generator-reactpack/commit/e6fa03ec98a773174fe4639f7c240df54e9b96be))
+
 ## [0.0.2](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.1...v0.0.2) (2023-09-19)
 
 
