@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "generator-reactpack",
+  "name": "generator-dandelion-reactpack",
   "version": "0.0.5",
   "scripts": {
     "prepare": "husky install",
