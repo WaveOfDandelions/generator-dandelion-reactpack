@@ -1,8 +1,19 @@
 const Generator = require('yeoman-generator');
 
+const PackageManager = {
+  pnpm: 'pnpm',
+  npm: 'npm',
+  yarn: 'yarn',
+};
+
 module.exports = class extends Generator {
   welcome() {
     this.log('Welcome to the Generator!');
+  }
+
+  constructor(args, opts) {
+    super(args, opts);
+    this.skipInstall = this.options['skip-install'];
   }
 
   async prompting() {
@@ -13,17 +24,33 @@ module.exports = class extends Generator {
     });
 
     this.projectName = String.prototype.toLowerCase.call(projectName);
+
+    if (!this.skipInstall) {
+      const { packageManager } = await this.prompt({
+        type: 'list',
+        name: 'packageManager',
+        message: 'Choose your package manager:',
+        choices: Object.keys(PackageManager),
+      });
+      this.packageManager = packageManager;
+    }
   }
 
   writing() {
     copyTemplates(this, { projectName: this.projectName });
   }
 
+  install() {
+    if (!this.skipInstall && this.packageManager) {
+      this.env.options.nodePackageManager = this.packageManager;
+    }
+  }
+
   end() {
     this.log('');
-    this.log('Generator installed, wait until dependencies will install!');
+    this.log('Generator installed');
     this.log('');
-    this.log('Run - npm run dev after installing dependencies!');
+    this.log('Run - npm run dev after installing!');
     this.log('');
     this.log('Enjoy!!!');
   }
