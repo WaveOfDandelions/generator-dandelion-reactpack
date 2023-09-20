@@ -1,1 +1,1 @@
-Yo Generator is ready
+Yo Generator v0.0.4
