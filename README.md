@@ -1,1 +1,1 @@
-Yo Generator v0.0.4
+Yo Generator v0.0.5
