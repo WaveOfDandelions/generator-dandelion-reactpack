@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.1.2...v0.1.3) (2023-09-23)
+
+
+### Bug Fixes
+
+* **npm:** delete lock json ([2956a11](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/2956a11573280a1a46e2eafa85ebb7b7f09891df))
+
 ## [0.1.2](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.1.1...v0.1.2) (2023-09-23)
 
 
