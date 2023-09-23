@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.7](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.0.6...v0.0.7) (2023-09-23)
+
+
+### Bug Fixes
+
+* **eslint:** add eslint ecmaversion latest ([d6b88ff](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/d6b88ff75c039408aedd66bed41bbbfc73a790ac))
+* **npm:** fix npm publish gitignore ([c12411c](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/c12411caf636b95ef7c25c15aca05b7181c8f868))
+
+
+### Miscellaneous
+
+* release 0.0.7 ([6786ceb](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/6786ceb9460db806b3cdd733644aeb6e54fe50bf))
+
 ## [0.0.6](https://github.com/WaveOfDandelions/generator-reactpack/compare/v0.0.5...v0.0.6) (2023-09-20)
 
 
