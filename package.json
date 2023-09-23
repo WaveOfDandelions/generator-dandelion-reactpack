@@ -15,7 +15,7 @@
     "url": "https://github.com/WaveOfDandelions/generator-dandelion-reactpack"
   },
   "files": [
-    "./generators/templates/.gitignore",
+    "./generators/app/templates/.gitignore",
     "**/*"
   ],
   "config": {
