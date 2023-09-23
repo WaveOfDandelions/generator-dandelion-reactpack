@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "generator-dandelion-reactpack",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "scripts": {
     "prepare": "husky install",
     "commit": "cz",

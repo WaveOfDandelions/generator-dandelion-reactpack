@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.8](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.0.7...v0.0.8) (2023-09-23)
+
+
+### Bug Fixes
+
+* **npm:** fix whitelist for npm ([94a5f65](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/94a5f656125ffb4e72d1836a17a4c123a18f66e9))
+
+
+### Miscellaneous
+
+* release 0.0.8 ([5981e8f](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/5981e8f3212ba11702496b8d41a8b3af10a1dea9))
+
 ## [0.0.7](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.0.6...v0.0.7) (2023-09-23)
 
 
