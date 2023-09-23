@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.1.0...v0.1.1) (2023-09-23)
+
+
+### Miscellaneous
+
+* release 0.1.1 ([b8e1c92](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/b8e1c9293216aee1c461586c732ad9d4ebe34674))
+* **release:** add new release ([920e859](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/920e859cd52f1eb8e22b7669b84e66ad0cc0fe2f))
+
 ## [0.1.0](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.0.9...v0.1.0) (2023-09-23)
 
 
