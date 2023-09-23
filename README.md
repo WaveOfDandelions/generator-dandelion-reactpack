@@ -1,7 +1,7 @@
 <h1 align="center">Dandelion reactpack</h1>
 
 <p align="center">
-  <img src="./assets/images/dandelion.gif" alt="dandelion-logo" width="120px" height="120px"/>
+  <img src="./assets/images/dandelion.gif" alt="dandelion-logo" width="240px" height="160px"/>
   <br>
   <em>This is boilerplate for fast scaffolding your react app
     <br> using Vite+SWC/React/TypeScript/CSS Modules.</em>
@@ -31,14 +31,14 @@
 
 ## Documentation
 
-Get started with dandelion-raactpack, learn all commands and how to work.
+Get started with dandelion-reactpack, learn all commands and how to work.
 
 ## Development Setup
 
 ### Prerequisites
 
 - Install [Node.js] which includes [Node Package Manager][npm]
-- Install [Yeoman] which includes [Generator][yo]
+- Install [Yeoman][yo]
 
 ### Setting Up a Project
 
@@ -74,4 +74,3 @@ It should work in every OS.
 [node.js]: https://nodejs.org/
 [npm]: https://www.npmjs.com/get-npm
 [yo]: https://yeoman.io/
-
