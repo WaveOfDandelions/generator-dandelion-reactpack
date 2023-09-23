@@ -1,7 +1,7 @@
 <h1 align="center">Dandelion reactpack</h1>
 
 <p align="center">
-  <img src="./assets/images/dandelion.gif" alt="dandelion-logo" width="240px" height="160px"/>
+  <img src="./assets/images/dandelion.gif" alt="dandelion-logo" width="500" height="280px"/>
   <br>
   <em>This is boilerplate for fast scaffolding your react app, current version is 0.1.2
     <br> using Vite+SWC/React/TypeScript/CSS Modules.</em>
