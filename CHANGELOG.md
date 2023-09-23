@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.2](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.1.1...v0.1.2) (2023-09-23)
+
+
+### Features
+
+* **scripts:** add rename script with postinstall hook ([2432363](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/2432363667971f9cd94f2e6744799fc198156cac))
+
+
+### Bug Fixes
+
+* **scripts:** fix rename script ([bb00281](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/bb00281d25e497598bfae53d87248b866821903f))
+
+
+### Miscellaneous
+
+* release 0.1.2 ([399cdaf](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/399cdaf02e05b74eff62a2a0f2894009e6fa69ef))
+
 ## [0.1.1](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.1.0...v0.1.1) (2023-09-23)
 
 
