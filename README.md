@@ -5,6 +5,7 @@
   <br>
   <em>This is boilerplate for fast scaffolding your react app, current version is 0.1.4
     <br> using Vite+SWC/React/TypeScript/CSS Modules.</em>
+    <br> SCSS support is coming soon</em>
   <br>
 </p>
 
