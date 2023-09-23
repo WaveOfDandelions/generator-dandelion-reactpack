@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.9](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.0.8...v0.0.9) (2023-09-23)
+
+
+### Bug Fixes
+
+* **npm:** another quick fix for .gitignore ([2be67f1](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/2be67f1ca7ec172dfc0649d5de29c5e54f2ddf44))
+
+
+### Miscellaneous
+
+* release 0.0.9 ([19c115d](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/19c115d47b404bb40b24cb59a49ccbd8a92e5fe7))
+
 ## [0.0.8](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.0.7...v0.0.8) (2023-09-23)
 
 
