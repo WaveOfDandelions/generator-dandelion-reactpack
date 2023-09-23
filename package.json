@@ -6,7 +6,7 @@
     "prepare": "husky install",
     "commit": "cz",
     "pre-release": "node ./release/release.js",
-    "release": "git commit --allow-empty -m \"chore: release 0.0.5\" -m \"Release-As: 0.0.5\" && npm run deploy-release",
+    "release": "git commit --allow-empty -m \"chore: release 0.0.7\" -m \"Release-As: 0.0.7\" && npm run deploy-release",
     "deploy-release": "git push origin main",
     "update": "git pull && node release.js"
   },
