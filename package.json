@@ -10,7 +10,12 @@
     "deploy-release": "git push origin main",
     "update": "git pull && node release.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WaveOfDandelions/generator-dandelion-reactpack"
+  },
   "files": [
+    "./generators/templates/.gitignore",
     "**/*"
   ],
   "config": {
