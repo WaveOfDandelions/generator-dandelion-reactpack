@@ -10,6 +10,10 @@
     "deploy-release": "git push origin main",
     "update": "git pull && node release.js"
   },
+  "files": [
+    ".gitignore",
+    "./generators/templates/.gitignore"
+  ],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
