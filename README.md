@@ -20,7 +20,7 @@
       alt="Package version" />
   </a>&nbsp;
   <a href="https://www.npmjs.com/generator-dandelion-reactpack">
-    <img src="https://img.shields.io/npm/dy/generator-dandelion-reactpack" 
+    <img src="https://img.shields.io/npm/dm/generator-dandelion-reactpack" 
       alt="dandelion-reactpack on npm" />
   </a>&nbsp;
   <a href="https://discord.gg/angular">
