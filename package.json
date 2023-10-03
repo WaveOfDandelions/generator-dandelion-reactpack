@@ -3,6 +3,7 @@
   "name": "generator-dandelion-reactpack",
   "version": "0.1.4",
   "license": "MIT",
+  "keyword": "yeoman-generator",
   "scripts": {
     "prepare": "husky install",
     "commit": "cz",
