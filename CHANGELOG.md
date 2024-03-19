@@ -26,8 +26,7 @@
 ### Miscellaneous
 
 * **main:** release 0.1.3 ([6cd8414](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/6cd8414220a6efa86bfab65fac1481479e9a1c37))
-* release 0.1.3 ([93dae37](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/93dae377add8ce4daecc6fd586fb9068dfc3eae7))
-* release 0.1.3 ([595829c](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/commit/595829c036b8ae24679f325d6e4c960a65910231))
+
 
 ## [0.1.3](https://github.com/WaveOfDandelions/generator-dandelion-reactpack/compare/v0.1.2...v0.1.3) (2023-09-23)
 
