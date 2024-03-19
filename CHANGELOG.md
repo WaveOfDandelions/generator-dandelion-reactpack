@@ -158,8 +158,6 @@
 
 ### Miscellaneous
 
-* release 0.0.2 ([a6e54f7](https://github.com/WaveOfDandelions/generator-reactpack/commit/a6e54f7f1aa42da33d7d8097f46388e337141b88))
-* release 0.0.2 ([6ea3f45](https://github.com/WaveOfDandelions/generator-reactpack/commit/6ea3f4576024a66517d5933a58c109980a3a859d))
 * release 0.0.3 ([6b36f01](https://github.com/WaveOfDandelions/generator-reactpack/commit/6b36f010404f56681de7507b80212fc5303f4f65))
 
 
@@ -190,9 +188,6 @@
 ### Miscellaneous
 
 * release 0.0.1 ([8a365f7](https://github.com/WaveOfDandelions/generator-reactpack/commit/8a365f7c6ad5233bdcdc59d5e6cbc8e2a88cdc71))
-* release 0.0.1 ([6aa4bc5](https://github.com/WaveOfDandelions/generator-reactpack/commit/6aa4bc5f408a8bb42c0bd027cb2bd8801e34b550))
-* release 0.0.1 ([331bce0](https://github.com/WaveOfDandelions/generator-reactpack/commit/331bce0c53a3f818b9e168b642539b6b9197b6c9))
-* release 0.0.1 ([897aa51](https://github.com/WaveOfDandelions/generator-reactpack/commit/897aa5143144ca2decb9d99e0fcb5ed23502b43b))
 
 
 ### Build Systems
